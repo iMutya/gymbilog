@@ -1,37 +1,37 @@
 Gymbilog — Gym Management System
 
-Gymbilog is a web-based gym management system designed to help gyms organize member records, attendance, and subscription tracking in a simple and efficient way. It provides an easy-to-use dashboard for managing members, tracking membership status, and monitoring daily activity.
+Gymbilog is a PHP-based gym management system designed to help gym owners organize and manage their members more efficiently. It provides a clean and simple interface for handling member information, membership status, and attendance tracking — all in one place.
 
-✅ Features
+⭐ Features
 
 Member registration and profile management
 
-Subscription / Membership monitoring
+Track membership status and expiration
 
-Attendance logging and history
+Attendance logging and member check-in records
 
-Simple and clean admin dashboard
+Clean and easy-to-use dashboard
 
-Search and filter for members
+Built with a user-friendly interface using Bootstrap
 
-Role-based access (Admin / Staff) (optional or planned)
-
-🛠️ Technologies Used
-Area	Tools
-Backend	Django / PHP / (add your actual backend)
+🛠️ Built With
+Component	Technology
+Backend	PHP (Core PHP)
 Frontend	HTML, CSS, Bootstrap
-Database	SQLite / MySQL
-Authentication	Built-in auth login system
-📌 Future Enhancements
+Database	MySQL
+Auth	Basic login/session system
+🚧 Future Improvements
 
-Automated payments and expiration reminders
+Automated membership reminders
 
-Workout and progress tracking for members
+Printable attendance and membership reports
 
-Analytics dashboard (member growth, attendance chart)
+Progress tracking per member
 
-Mobile-friendly app version
+Admin and Staff role permissions
 
-🎯 Goal
+Mobile-friendly version with responsive enhancements
 
-To make gym management easier, more organized, and accessible for both gym owners and staff.
+🎯 Project Goal
+
+To provide a simple, practical, and accessible gym management tool for local gyms and fitness centers.
